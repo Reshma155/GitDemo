@@ -8,7 +8,7 @@ import org.testng.annotations.AfterMethod;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.println("Reshma");
+	  System.out.println("Reshma Kapil Phadtare");
 	  
 	  String expected = "Hello TestNG";
 	    String actual = "Hello TestNG";
