@@ -17,7 +17,7 @@ public class NewTest {
   }
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("Hi");
+	  System.out.println("Before Test ..");
   }
 
   @AfterMethod
