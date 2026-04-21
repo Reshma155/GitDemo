@@ -22,7 +22,10 @@ public class NewTest {
 
   @AfterMethod
   public void afterMethod() {
+	  System.out.println("After Test..");
+	  System.out.println("Web Automation..");
 	  System.out.println("GoodMorning");
+	  
   }
 
 }
