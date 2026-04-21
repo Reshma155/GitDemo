@@ -18,6 +18,8 @@ public class NewTest {
   @BeforeMethod
   public void beforeMethod() {
 	  System.out.println("Before Test ..");
+	  System.out.println("PostJira 1");
+	  System.out.println("PostJira 2");
   }
 
   @AfterMethod
@@ -25,6 +27,8 @@ public class NewTest {
 	  System.out.println("After Test..");
 	  System.out.println("Web Automation..");
 	  System.out.println("GoodMorning");
+	  System.out.println("PostJira 3");
+	  System.out.println("PostJira 4");
 	  
   }
 
