@@ -19,6 +19,11 @@ public class NewTest {
   public void beforeMethod() {
 	  System.out.println("Before Test ..");
 
+
+	  System.out.println("PostJira 1");
+	  System.out.println("PostJira 2");
+
+
 	  System.out.println("PostJira 1");
 	  System.out.println("PostJira 2");
 
