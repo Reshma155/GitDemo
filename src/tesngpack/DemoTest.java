@@ -10,6 +10,10 @@ public class DemoTest {
   @Test
   public void f() {
 	  System.out.println("Jira Updates---1");
+	  int a=4, b=6;
+	  int c= a+b;
+	  System.out.println("Addition is "+c);
+	  
   }
   @BeforeMethod
   public void beforeMethod() {
