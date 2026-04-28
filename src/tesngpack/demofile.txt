@@ -3,8 +3,7 @@ all alphabets
 a
 b
 c
-d
-e
+
 
 Numbers
 1
